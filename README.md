@@ -1,6 +1,6 @@
 # aaa
 
-Template Flutter plugin for test work native call and callback to Dart 
+Template Flutter plugin for test work native call (Android/iOS) and callback to Dart 
 
 ## Generate Pigeon
 
